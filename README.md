@@ -21,7 +21,7 @@ You can find me almost anywhere on social media:
   
 [![YouTube](https://img.shields.io/static/v1?label=YouTube&message=%20&color=red&logo=YouTube&style=round-square&logoColor=white)](https://www.youtube.com/channel/UCS2OhOqVdfQsHvIsYJKS0_g)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=round-square&logoColor=white)](https://www.instagram.com/nandan2702/)
-[![WordPress](https://img.shields.io/static/v1?label=WordPress&message=%20&color=blue&logo=WordPress&style=round-square&logoColor=white)](https://www.instagram.com/nandan2702/)
+[![WordPress](https://img.shields.io/static/v1?label=WordPress&message=%20&color=blue&logo=WordPress&style=round-square&logoColor=white)](https://theexuberantspirit.wordpress.com/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=round-square&logoColor=white)](https://twitter.com/nandanv2702/)
   
 or you can leave a message on my [personal website](https://nandanv2702.github.io/)!
