@@ -14,7 +14,7 @@ I'm Nandan Venkatesan - a third year undergraduate student at UW-Madison. I like
 * ReactJS
 * Color grading
 
-⚡ Fun fact: I travel around 16,000 miles every year (ask me why)
+⚡ Random Fun Fact: I travel around 16,000 miles every year (ask me why)
 
 ### Let's Connect!
 You can find me almost anywhere on social media: 
