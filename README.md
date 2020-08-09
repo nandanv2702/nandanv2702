@@ -26,4 +26,5 @@ You can find me almost anywhere on social media:
   
 or you can leave a message on my [personal website](https://nandanv2702.github.io/)!
 
+(Note: GitHub readme stats used from [this](https://github.com/anuraghazra/github-readme-stats) repo)
 </p>
