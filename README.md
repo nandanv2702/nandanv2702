@@ -11,7 +11,7 @@ I'm Nandan Venkatesan - a third year undergraduate student at UW-Madison. I like
 
 ### I'm currently learning
 * OAuth using NodeJS
-* ReactJS
+* Service Workers and Caching
 * Color grading
 
 ⚡ Random Fun Fact: I travel around 16,000 miles every year (ask me why)
