@@ -11,7 +11,7 @@ I'm Nandan Venkatesan - a third year undergraduate student at UW-Madison. I like
 ![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandanv2702&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)
 
 ### I'm currently learning
-* OAuth using NodeJS
+* How to build a chat application using Socket.io
 * Service Workers and Caching
 * Color grading
 
