@@ -4,7 +4,7 @@ I'm Nandan Venkatesan - a senior at UW-Madison. I like creating things that solv
 
 ### What I love doing
 * Creating web apps using NodeJS, Express, and MongoDB
-  * Currently working on an [inventory tracking dashboard](https://github.com/nandanv2702/aos-dashboard) for a major American motorycle company
+  * Currently working on an [inventory tracking dashboard](https://github.com/nandanv2702/aos-dashboard) for an American motorycle company
 * Making films and YouTube videos
 * Writing scripts that automate the silly stuff
 
