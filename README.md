@@ -13,7 +13,7 @@ Check out my [personal website](https://nandanv.com/)!
 ![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandanv2702&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)
 
 ### I'm currently learning
-* [React](https://reactjs.org)
+* [Vue](https://v3.vuejs.org)
 * [Socket.io](https://socket.io/)
 * [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being/) (not a full-stack thing, but still 🤷‍♂️)
 
