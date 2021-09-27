@@ -4,9 +4,9 @@ I'm Nandan Venkatesan - a senior at UW-Madison. I like creating things that solv
 
 ### What I love doing
 * Creating web apps using NodeJS, Express, and MongoDB
-  * Currently working on a [predictive resource planning](https://github.com/nandanv2702/aos-dashboard) application for an American motorycle company
+  * Currently working on a real-time [predictive resource planning](https://github.com/nandanv2702/aos-dashboard) application for an American motorycle company
 * Making films and YouTube videos
-* Writing scripts that automate the silly stuff
+* Writing scripts that automate the boring stuff
 
 Check out my [personal website](https://nandanv.com/)!
 
