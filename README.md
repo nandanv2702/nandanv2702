@@ -3,7 +3,7 @@
 I'm Nandan Venkatesan - a senior at UW-Madison. I like creating things that solve problems... and coffee ☕️  ... love that.
 
 ### What I love doing
-* Creating web apps using NodeJS, Express, and MongoDB
+* Creating web apps using NodeJS, Express, Vue, Sequelize, and other technologies!
   * Currently working on a real-time [predictive resource planning](https://github.com/nandanv2702/aos-dashboard) application for an American motorycle company
 * Making films and YouTube videos
 * Writing scripts that automate the boring stuff
@@ -15,7 +15,7 @@ Check out my [personal website](https://nandanv.com/)!
 ### I'm currently learning
 * [Vue](https://v3.vuejs.org)
 * [Socket.io](https://socket.io/)
-* [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being/) (not a full-stack thing, but still 🤷‍♂️)
+* [Typescript](https://www.typescriptlang.org)
 
 ⚡ Random Fun Fact: I decided to move to a completely new city in 2 weeks
 
